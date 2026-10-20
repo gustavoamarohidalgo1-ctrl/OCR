@@ -1,0 +1,251 @@
+{
+ "fecha": "2026-10-19",
+ "descripcion": "Facturas reales en hoja A4/carta, en español, con tabla de conceptos, impuesto y total, publicadas por entidades públicas o con licencia abierta.",
+ "cantidad": 13,
+ "imagenes": [
+  {
+   "archivo": "Documentos/01_mx_ciatej_hoteles_romano_2025.pdf",
+   "fuente": "https://www.ciatej.mx/comprobantes/2025/4toTri2025/viaticos/250547/ae841ff0-4bbf-49b5-925d-a988ab85bb75.pdf",
+   "publica": "CIATEJ (Jalisco, México)",
+   "licencia_o_base": "Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "MX",
+   "descripcion": "CFDI de hospedaje de Hoteles Romano a CIATEJ (2025). PDF digital de 2 páginas; tabla con clave, descripción, unidad, cantidad, precio unitario e importe; ISH, IVA 16 % y total.",
+   "datos_personales": "Emisor y receptor son empresas o entidades públicas.",
+   "bytes": 16971,
+   "sha256": "f53437dcd58c9c1a9f4577c1e42252745465db5f691f3745367dc54377d463ec",
+   "paginas": 2,
+   "tamano_pagina_pt": [
+    595,
+    792
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/02_mx_ciatej_hotel_montenegro_2023.pdf",
+   "fuente": "https://www.ciatej.mx/comprobantes/2023/4toTri2023/viaticos/230807/85A7A470-DC5D-4019-BBE8-7C3443F88695.pdf",
+   "publica": "CIATEJ (Jalisco, México)",
+   "licencia_o_base": "Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "MX",
+   "descripcion": "CFDI de Hotel Montenegro (Guadalajara) a CIATEJ (2023), PDF digital tamaño carta.",
+   "datos_personales": "Emisor y receptor son empresas o entidades públicas.",
+   "bytes": 33518,
+   "sha256": "d93c92ea708eba2a099d3f0058281f4a7801a245eb10ffa0e22378aab88aad19",
+   "paginas": 1,
+   "tamano_pagina_pt": [
+    612,
+    792
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/03_mx_ciatej_aeropuerto_gdl_2019.pdf",
+   "fuente": "https://www.ciatej.mx/comprobantes/2019/3erTri2019/190866/33A3B612-689C-4971-87EB-2003C955081C.pdf",
+   "publica": "CIATEJ (Jalisco, México)",
+   "licencia_o_base": "Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "MX",
+   "descripcion": "CFDI de Aeropuerto de Guadalajara a CIATEJ (2019, estacionamiento), PDF digital.",
+   "datos_personales": "Emisor y receptor son empresas o entidades públicas.",
+   "bytes": 187852,
+   "sha256": "3edb82316458160842d0420e3c26746b0d87e38f6ddb640d6af2680af0867830",
+   "paginas": 1,
+   "tamano_pagina_pt": [
+    612,
+    792
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/04_mx_ciatej_cfdi_d3253_2019.pdf",
+   "fuente": "https://www.ciatej.mx/comprobantes/2019/4toTri2019/191171/BF4FC347-F75C-4ABC-A098-9D3ABBE0C781_Redacted.pdf",
+   "publica": "CIATEJ (Jalisco, México)",
+   "licencia_o_base": "Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "MX",
+   "descripcion": "CFDI de restaurante a CIATEJ (2019), versión pública con datos tachados; varios conceptos con impuestos por línea.",
+   "datos_personales": "El emisor es una persona física con actividad empresarial; su RFC y otros datos aparecen tachados.",
+   "bytes": 1950052,
+   "sha256": "bedec7383dbfb0ab0d64b26611d7634b4d09bf309fbfbc443345bf9d68ecc191",
+   "paginas": 2,
+   "tamano_pagina_pt": [
+    595,
+    842
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/05_mx_fiscalia_ags_parrilleros_2016.pdf",
+   "fuente": "https://www.fiscalia-aguascalientes.gob.mx/docs/info-transparencia/Fraccion-IX/A/VIAT074-2016%20PUBLICO.pdf",
+   "publica": "Fiscalía General del Estado de Aguascalientes",
+   "licencia_o_base": "Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "MX",
+   "descripcion": "Expediente de viáticos de 9 páginas, versión pública; la primera es un CFDI de Parrilleros del Norte (La Provoleta) escaneado con sello y firma.",
+   "datos_personales": "Emisor empresa y receptor entidad pública; otras páginas del expediente pueden incluir datos de servidores públicos.",
+   "bytes": 3202819,
+   "sha256": "f42670e7196f0739ee2085be4dd48c97184a0f8d0a178f2a327ceb928e737444",
+   "paginas": 9,
+   "tamano_pagina_pt": [
+    612,
+    795
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/06_mx_tepjf_excelsior_2016.pdf",
+   "fuente": "https://www.te.gob.mx/repositorio/A70F23-B/FACTURAS%202016/245.pdf",
+   "publica": "Tribunal Electoral del Poder Judicial de la Federación",
+   "licencia_o_base": "Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "MX",
+   "descripcion": "CFDI de Periódico Excélsior al TEPJF (2016, publicidad), escaneado en gris.",
+   "datos_personales": "Emisor y receptor son empresas o entidades públicas.",
+   "bytes": 477638,
+   "sha256": "8dc52e4c49d6e448bcae9579b1ebc9fe1ddc0298cbe804a2a1902f91e52dcf6e",
+   "paginas": 1,
+   "tamano_pagina_pt": [
+    615,
+    794
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/07_co_cce_factura_6939_2023.pdf",
+   "fuente": "https://operaciones.colombiacompra.gov.co/sites/cce_public/files/documentos_adicionales_oc/factura_6939_enero_2023.pdf",
+   "publica": "Colombia Compra Eficiente (documentos de órdenes de compra)",
+   "licencia_o_base": "Publicado por Colombia Compra Eficiente (entidad pública) como documento adicional de una orden de compra. Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "CO",
+   "descripcion": "Factura electrónica de venta de ASEAR S.A. E.S.P. a la DIAN (2023), PDF digital A4 con IVA 19 %.",
+   "datos_personales": "Emisor empresa, receptor entidad pública.",
+   "bytes": 54467,
+   "sha256": "a8077dd0c4c464901324f61767220d17dd4989827980d022e810989e76c16dc6",
+   "paginas": 1,
+   "tamano_pagina_pt": [
+    595,
+    842
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/08_co_cce_factura_asea6932_2023.pdf",
+   "fuente": "https://operaciones.colombiacompra.gov.co/sites/cce_public/files/documentos_adicionales_oc/factura_asea6932.pdf",
+   "publica": "Colombia Compra Eficiente (documentos de órdenes de compra)",
+   "licencia_o_base": "Publicado por Colombia Compra Eficiente. Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "CO",
+   "descripcion": "Factura electrónica de venta de ASEAR a la DIAN (2023), PDF digital A4.",
+   "datos_personales": "Emisor empresa, receptor entidad pública.",
+   "bytes": 50001,
+   "sha256": "3aa704010eccf850c6326838a08fbe79f04c2d041bac9b484b2801c8e1301a32",
+   "paginas": 1,
+   "tamano_pagina_pt": [
+    595,
+    842
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/09_co_cce_factura_7472_2023.pdf",
+   "fuente": "https://operaciones.colombiacompra.gov.co/sites/cce_public/files/documentos_adicionales_oc/2023-04-factura_7472.pdf",
+   "publica": "Colombia Compra Eficiente (documentos de órdenes de compra)",
+   "licencia_o_base": "Publicado por Colombia Compra Eficiente. Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "CO",
+   "descripcion": "Factura electrónica de venta de ASEAR a la DIAN (abril 2023), PDF digital A4.",
+   "datos_personales": "Emisor empresa, receptor entidad pública.",
+   "bytes": 49695,
+   "sha256": "3fba641ac2078da4c405e0cff8eb1f3e89e20185a14f64d1b160b603cf8b79bc",
+   "paginas": 1,
+   "tamano_pagina_pt": [
+    595,
+    842
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/10_co_cce_factura_mayo_2022.pdf",
+   "fuente": "https://operaciones.colombiacompra.gov.co/sites/cce_public/files/documentos_adicionales_oc/factura_mayo_2022_0.pdf",
+   "publica": "Colombia Compra Eficiente (documentos de órdenes de compra)",
+   "licencia_o_base": "Publicado por Colombia Compra Eficiente. Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "CO",
+   "descripcion": "Factura electrónica de venta de ASEAR a la DIAN (mayo 2022), PDF digital A4 con 5 conceptos.",
+   "datos_personales": "Emisor empresa, receptor entidad pública.",
+   "bytes": 50826,
+   "sha256": "7b78ab686923adac3de91421acadc0f7c2b0efd48f8a0e005144bc572c8cb04a",
+   "paginas": 1,
+   "tamano_pagina_pt": [
+    595,
+    842
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/11_cl_sii_factura_grpc_06-25_2019.pdf",
+   "fuente": "https://www.sii.cl/transparencia/2019/grpc_06-25.pdf",
+   "publica": "Servicio de Impuestos Internos de Chile (transparencia)",
+   "licencia_o_base": "Publicado por el SII de Chile en su sección de transparencia. Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "CL",
+   "descripcion": "Factura electrónica Nº25 de un servicio de banquetería al SII (2019), con IVA 19 %.",
+   "datos_personales": "El emisor es una persona natural con giro comercial (nombre y RUT visibles); receptor entidad pública.",
+   "bytes": 74845,
+   "sha256": "b3c798d078245304a4bd7081f79d9d33e407a6a76e0f9163834f5ba50b2a69b1",
+   "paginas": 1,
+   "tamano_pagina_pt": [
+    612,
+    792
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/12_cl_sii_factura_grpc_02-17797_2019.pdf",
+   "fuente": "https://www.sii.cl/transparencia/2019/grpc_02-17797.pdf",
+   "publica": "Servicio de Impuestos Internos de Chile (transparencia)",
+   "licencia_o_base": "Publicado por el SII de Chile en su sección de transparencia. Sin licencia abierta: uso interno para pruebas, sin redistribuir.",
+   "idioma": "es",
+   "pais": "CL",
+   "descripcion": "Factura electrónica Nº17797 de Comercializadora y Distribuidora Vivanco S.A. al SII (2019), con IVA 19 %.",
+   "datos_personales": "Emisor empresa, receptor entidad pública.",
+   "bytes": 74074,
+   "sha256": "684a2e04d08936339ef59176ee39c19722c6f2af987df38ef7bb55ff31ae1e1a",
+   "paginas": 1,
+   "tamano_pagina_pt": [
+    612,
+    792
+   ],
+   "texto_de_referencia": "Capa de texto del PDF, ordenada por filas visuales (referencias/)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  },
+  {
+   "archivo": "Documentos/13_es_factura_ibanox.jpg",
+   "fuente": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Factura_Ibanox.jpg",
+   "publica": "Wikimedia Commons (autor: Diego Piñeiro)",
+   "licencia_o_base": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): citar autor, fuente y licencia al reutilizar. Página: https://commons.wikimedia.org/wiki/File:Factura_Ibanox.jpg",
+   "idioma": "es",
+   "pais": "ES",
+   "descripcion": "Factura de Inoxidables Baralla (Ibanox, Lugo), formulario impreso rellenado a mano; escaneo de 1687×2337 px.",
+   "datos_personales": "La emisora es una persona física (autónoma) cuyo nombre y DNI aparecen impresos en el membrete; el cliente es una sociedad. Ya publicada con licencia abierta en Wikimedia Commons, pero no la redistribuyas fuera del proyecto sin revisarlo.",
+   "bytes": 1102157,
+   "sha256": "9c515b619c0a8f3430b99b52d06463eb07f7608de491fe054d7c23ea427b2a6b",
+   "paginas": 1,
+   "tamano_pagina_pt": null,
+   "texto_de_referencia": "Sin capa de texto (imagen)",
+   "transformaciones": "Ninguna: archivo conservado tal como se descargó; solo se cambió el nombre."
+  }
+ ]
+}

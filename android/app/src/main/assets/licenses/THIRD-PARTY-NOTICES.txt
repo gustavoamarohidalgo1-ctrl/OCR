@@ -1,0 +1,154 @@
+THIRD-PARTY NOTICES — INDEPENDENT OFFLINE OCR COMPONENTS
+Factura Clara
+
+This index covers the Tesseract-based OCR dependency, its bundled language
+models, and native dependencies. The original license texts accompany this
+file in assets/licenses; model metadata and its license are in assets/tessdata.
+These notices do not replace or alter the original licenses.
+
+TESSERACT4ANDROID 4.9.0 — STANDARD VARIANT
+Maven: cz.adaptech.tesseract4android:tesseract4android:4.9.0
+Copyright 2019 Adaptech s.r.o., Robert Pösel.
+The Java/JNI wrappers derive from tess-two and Tesseract Tools for Android and
+retain contributions and copyright notices from Google Inc. and Robert Theis.
+License: Apache License 2.0; see Tesseract4Android-LICENSE.
+Source release commit: 15c534717b1cb58261b58d4e4c1200c7f81f668c
+https://github.com/adaptech-cz/Tesseract4Android/tree/4.9.0
+https://raw.githubusercontent.com/adaptech-cz/Tesseract4Android/4.9.0/LICENSE
+Artifact:
+https://jitpack.io/cz/adaptech/tesseract4android/tesseract4android/4.9.0/tesseract4android-4.9.0.aar
+
+The release README and Android CMake files identify the following libraries.
+The AAR contains libjpeg.so, libpngx.so, libleptonica.so and libtesseract.so.
+This is the Standard variant, not the OpenMP variant.
+https://github.com/adaptech-cz/Tesseract4Android/blob/4.9.0/README.md
+https://github.com/adaptech-cz/Tesseract4Android/tree/4.9.0/tesseract4android/src/main/cpp
+
+TESSERACT OCR 5.5.1
+License: Apache License 2.0; see Tesseract-LICENSE.
+https://github.com/tesseract-ocr/tesseract/tree/5.5.1
+Release's vendored license:
+https://raw.githubusercontent.com/adaptech-cz/Tesseract4Android/4.9.0/tesseract4android/src/main/cpp/tesseract/src/LICENSE
+
+LEPTONICA 1.85.0
+Copyright (C) 2001-2020 Leptonica. All rights reserved.
+License and disclaimer: see Leptonica-LICENSE (the upstream two-clause
+redistribution notice). Leptonica-README retains the previously included notice.
+https://github.com/DanBloomberg/leptonica/tree/1.85.0
+Exact vendored notice copied from release commit:
+https://raw.githubusercontent.com/adaptech-cz/Tesseract4Android/15c534717b1cb58261b58d4e4c1200c7f81f668c/tesseract4android/src/main/cpp/leptonica/src/leptonica-license.txt
+
+INDEPENDENT JPEG GROUP LIBJPEG 9f (14 January 2024)
+This software is based in part on the work of the Independent JPEG Group.
+Copyright (C) 1991-2024, Thomas G. Lane, Guido Vollbeding.
+Full upstream README, including LEGAL ISSUES: libjpeg-9f-README.
+https://www.ijg.org/files/jpegsrc.v9f.tar.gz
+Exact vendored notice copied from release commit:
+https://raw.githubusercontent.com/adaptech-cz/Tesseract4Android/15c534717b1cb58261b58d4e4c1200c7f81f668c/tesseract4android/src/main/cpp/libjpeg/src/README
+
+LIBPNG 1.6.48
+Full copyright, conditions and disclaimers: libpng-1.6.48-LICENSE.
+https://www.libpng.org/pub/png/libpng.html
+Exact vendored notice copied from release commit:
+https://raw.githubusercontent.com/adaptech-cz/Tesseract4Android/15c534717b1cb58261b58d4e4c1200c7f81f668c/tesseract4android/src/main/cpp/libpng/src/LICENSE
+
+ANDROID NDK C++ RUNTIME AND COMPILER SUPPORT
+Tesseract4Android 4.9.0 specifies NDK 27.2.12479018 (r27c).
+The distributed arm64 libtesseract.so identifies Android Clang 18.0.3,
+build 12470979, based on r522817c, source commit
+d8003a456d14a3deb8054cdaa529ffbf02d9b262. The AAR does not distribute a separate
+libc++_shared.so. Notices for LLVM libc++, libc++abi, libunwind and compiler-rt
+runtime/compiler support are included, with Apache 2.0 / LLVM exceptions and
+the upstream legacy license terms retained in full:
+  LLVM-libcxx-LICENSE.txt
+  LLVM-libcxxabi-LICENSE.txt
+  LLVM-libunwind-LICENSE.txt
+  LLVM-compiler-rt-LICENSE.txt
+Their exact source URLs are:
+https://android.googlesource.com/toolchain/llvm-project/+/d8003a456d14a3deb8054cdaa529ffbf02d9b262/libcxx/LICENSE.TXT
+https://android.googlesource.com/toolchain/llvm-project/+/d8003a456d14a3deb8054cdaa529ffbf02d9b262/libcxxabi/LICENSE.TXT
+https://android.googlesource.com/toolchain/llvm-project/+/d8003a456d14a3deb8054cdaa529ffbf02d9b262/libunwind/LICENSE.TXT
+https://android.googlesource.com/toolchain/llvm-project/+/d8003a456d14a3deb8054cdaa529ffbf02d9b262/compiler-rt/LICENSE.TXT
+Build configuration:
+https://github.com/adaptech-cz/Tesseract4Android/blob/4.9.0/tesseract4android/build.gradle
+
+ANDROID NDK CPUFEATURES (ARMEABI-V7A SUPPORT)
+The Tesseract Android CMake build imports this NDK module for armeabi-v7a.
+The upstream copyright and two-clause license header is reproduced unaltered
+in Android-cpufeatures-LICENSE.txt. This notice was extracted from:
+https://android.googlesource.com/platform/ndk/+/refs/heads/main/sources/android/cpufeatures/cpu-features.c
+
+ANDROID SYSTEM LIBRARIES, INCLUDING ZLIB
+The release CMake links libpng and Leptonica to Android's system z library,
+and uses platform libraries such as log, dl and jnigraphics. No separate zlib
+binary is packaged in this Tesseract4Android AAR; its implementation/version
+is provided by the Android operating system. System-library source and license
+information is maintained by Android and the upstream zlib project:
+https://android.googlesource.com/platform/external/zlib/
+https://zlib.net/zlib_license.html
+Link configuration:
+https://github.com/adaptech-cz/Tesseract4Android/blob/4.9.0/tesseract4android/src/main/cpp/libpng/CMakeLists.txt
+https://github.com/adaptech-cz/Tesseract4Android/blob/4.9.0/tesseract4android/src/main/cpp/leptonica/CMakeLists.txt
+
+TESSDATA_BEST ENGLISH AND SPANISH LANGUAGE MODELS
+Repository: tesseract-ocr/tessdata_best
+Commit: e12c65a915945e4c28e237a9b52bc4a8f39a0cec
+License: Apache License 2.0; see assets/tessdata/LICENSE.
+Files: eng.traineddata and spa.traineddata.
+Exact URLs, sizes and SHA-256 checksums: assets/tessdata/MODELS.json.
+https://github.com/tesseract-ocr/tessdata_best/tree/e12c65a915945e4c28e237a9b52bc4a8f39a0cec
+
+The license files copied for libjpeg, libpng, Leptonica and LLVM retain the
+upstream text verbatim. Factura Clara uses the released Tesseract4Android AAR
+and does not modify the native library sources or trained model contents.
+
+PADDLEOCR LATIN PP-OCRv5 MOBILE RECOGNITION MODEL
+Copyright (c) PaddlePaddle Authors. License: Apache License 2.0.
+Official ONNX model and original inference.yml are bundled unmodified.
+Repository: https://huggingface.co/PaddlePaddle/latin_PP-OCRv5_mobile_rec_onnx
+Pinned revision: 89d3a50e2c27e2e7cceeab0e944c25c807d5db4f
+Model SHA-256: 7888113072263cb471b93f66dd5e2ad70548dc526fa1ace760d0d973dd121498
+See assets/paddle/LICENSE and assets/paddle/MODELS.json for file hashes and
+character-dictionary derivation. There is no user-receipt vocabulary or manual
+correction table in the model, dictionary or recognizer.
+Preprocessing and CTC decoding follow PaddleOCR's SDK, Copyright (c) 2026
+PaddlePaddle Authors, Apache-2.0, pinned source commit:
+https://github.com/PaddlePaddle/PaddleOCR/tree/dab3fe35379033fdcb2d0e9572fac0b36c9a9ebf/deploy/ppocr-android/ppocr-sdk
+Factura Clara implements bounded CPU preprocessing and CTC decoding in Kotlin,
+with explicit BGR/RGB channels, diagnostic crop variants and cancellation.
+
+MICROSOFT ONNX RUNTIME ANDROID 1.20.0
+Copyright (c) Microsoft Corporation. All rights reserved.
+License: MIT; see OnnxRuntime-LICENSE. Bundled third-party acknowledgements and
+license terms: OnnxRuntime-ThirdPartyNotices.txt, copied from the same release.
+Maven: com.microsoft.onnxruntime:onnxruntime-android:1.20.0
+https://github.com/microsoft/onnxruntime/tree/v1.20.0
+https://raw.githubusercontent.com/microsoft/onnxruntime/v1.20.0/LICENSE
+https://raw.githubusercontent.com/microsoft/onnxruntime/v1.20.0/ThirdPartyNotices.txt
+Official artifact (unmodified):
+https://repo.maven.apache.org/maven2/com/microsoft/onnxruntime/onnxruntime-android/1.20.0/onnxruntime-android-1.20.0.aar
+This release declares Android minSdk21 and preserves the app's minimum API23.
+Inference runs locally on CPU with two intra-op threads and one inter-op thread.
+
+OPENCV ANDROID 4.14.0
+Copyright OpenCV contributors; see OpenCV-4.14.0-COPYRIGHT.
+License: Apache License 2.0; original terms in OpenCV-4.14.0-LICENSE.
+Official, unmodified AAR: org.opencv:opencv:4.14.0, maintained by the OpenCV team.
+https://opencv.org/opencv4android-usage-models/
+https://github.com/opencv/opencv/tree/4.14.0
+https://repo.maven.apache.org/maven2/org/opencv/opencv/4.14.0/opencv-4.14.0.aar
+AAR SHA-256: 6d11b40f6a54113dafe8540b1237b637193cb21e83deb11bc53d6757d35d494d
+AAR bytes: 123380341. Manifest declares minSdk21; app minSdk23 is retained.
+Uses OpenCVLoader.initLocal() to load the bundled library, without OpenCV Manager
+or a network service. Native ABI selection is controlled by the app build.
+Source license and attribution URLs:
+https://raw.githubusercontent.com/opencv/opencv/4.14.0/LICENSE
+https://raw.githubusercontent.com/opencv/opencv/4.14.0/COPYRIGHT
+The complete upstream Android SDK license collection is preserved verbatim in
+opencv-4.14.0-third-party/. It includes third-party copyright notices and license
+terms for codecs, Protobuf, FlatBuffers, TBB, ITT, ADE and other bundled or
+ABI-dependent components. PROVENANCE.json records the official archive URL,
+archive SHA-256 and individual file hashes. Upstream archive:
+https://github.com/opencv/opencv/releases/download/4.14.0/opencv-4.14.0-android-sdk.zip
+The AAR's arm64 build identifies NDK27.2.12479018 / LLVM18.0.3, as already covered
+by the LLVM-libcxx, libcxxabi, libunwind and compiler-rt notices in this directory.

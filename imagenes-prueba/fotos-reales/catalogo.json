@@ -1,0 +1,378 @@
+{
+  "descargado": "2026-10-17T21:59:29.287119-05:00",
+  "tratamiento": "Archivos copiados sin recortar, mejorar, redimensionar, recomprimir ni añadir desenfoque.",
+  "imagenes": [
+    {
+      "archivo": "01_sombras_y_fondo.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1000-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Sombras, perspectiva y objetos alrededor.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 60047,
+      "sha256": "9bf479add55511200724d35e215550b2c68eaa1b03526965fad3a67667f6935b"
+    },
+    {
+      "archivo": "02_desenfoque_suave.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1001-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Letras poco nítidas y papel curvado.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        645,
+        1000
+      ],
+      "bytes": 81764,
+      "sha256": "679584af268f174b10fbea42099f08c23e86f213b04c7ab086890492dea04783"
+    },
+    {
+      "archivo": "03_papel_doblado.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1002-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Papel doblado y sostenido con la mano; fondo de comida.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 130707,
+      "sha256": "7d84106e1b46f24b8802becd1f0ee83b34f1cab6bc331bf5caf734b6b1c5142a"
+    },
+    {
+      "archivo": "04_poca_luz.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1003-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Iluminación tenue y anotación manuscrita.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 110850,
+      "sha256": "90d65fc9ab533710cfd41cb55acd42037dc85f55a208118c618e17960e4fdff8"
+    },
+    {
+      "archivo": "05_sombra_en_mesa.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1005-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Perspectiva oblicua, sombra y borde sujeto.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 112178,
+      "sha256": "2f0faf58ecf84e53801e08119059d83c6df705c3759e21c7a2cf691c8e758d1a"
+    },
+    {
+      "archivo": "06_luz_desigual.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1009-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Poca luz y contraste desigual.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        348,
+        348
+      ],
+      "bytes": 16372,
+      "sha256": "fe1fc4a9aa9aa7cd2e065b0e3595d373bbbbe0b0543382f33231f1f2c1920e3f"
+    },
+    {
+      "archivo": "07_luz_azulada.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1010-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Dominante azul de iluminación y pliegue visible.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 85401,
+      "sha256": "6c757067fd38c8af7ed2f8fc1d5ba0cfcdcd720bc0bd3899675153655f697f16"
+    },
+    {
+      "archivo": "08_pliegues_y_contraste.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1013-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Papel con pliegues y contraste moderado.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 50035,
+      "sha256": "1b194784844014873be7a421665d207b44312a42399bb2510a043b679c758052"
+    },
+    {
+      "archivo": "09_impresion_tenue.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1014-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Texto tenue y sombra sobre el papel.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 96321,
+      "sha256": "91d9ab470e100cb7d988af4d6c487e50cd1d0d467d66c74cc4efd0320f40d67a"
+    },
+    {
+      "archivo": "10_anotacion_a_mano.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1015-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Anotaciones manuscritas y poca iluminación.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 105636,
+      "sha256": "73c77152e1dd0089754be5c78bb724cd68b4e4abf4e8bc03e47323c7f38e9d4a"
+    },
+    {
+      "archivo": "11_papel_curvado.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1018-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Papel curvado, inclinado y sostenido con la mano.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 73264,
+      "sha256": "99d4bfa31a48ae1eaf9e103d239e171460fd192c67e735ec3a6897f4ff325907"
+    },
+    {
+      "archivo": "12_papel_arrugado.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1022-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Arrugas marcadas y texto térmico tenue.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 113647,
+      "sha256": "a58086293a115683a9b8c493bc8c69c38f33123095e2342730825cd37e2c2d7a"
+    },
+    {
+      "archivo": "13_texto_desvanecido.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1026-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Impresión desvanecida con contraste bajo.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 154201,
+      "sha256": "ff9e140a19dd1915f3a329a11046cfb6ca7ddf82980fa8caf3289f0617d91547"
+    },
+    {
+      "archivo": "14_franjas_de_papel.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1028-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Franjas de color del papel térmico y fondo con textura.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        299,
+        400
+      ],
+      "bytes": 32393,
+      "sha256": "0a46baab3fa5f88f22848fea2b61659d55635c40fbe8c380a03b7a5dafe6aeda"
+    },
+    {
+      "archivo": "15_sombra_del_telefono.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1033-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Sombra pronunciada sobre la parte inferior.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 109389,
+      "sha256": "e7d50ce43c2facc3ed5b58c597720c318ad86e66586e4e1c42885a2cd7642d2e"
+    },
+    {
+      "archivo": "16_sombra_y_pliegue.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1037-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Pliegues e iluminación irregular.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 67682,
+      "sha256": "454ba7e8ee946d22347602b7d1f3752005abf214b20062eba5b34e2a0200f3d2"
+    },
+    {
+      "archivo": "17_foto_girada.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1039-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Recibo fotografiado de lado con fondo de mesa.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        1000,
+        750
+      ],
+      "bytes": 107129,
+      "sha256": "bc497b9bf2e2e99ecab64bb204dfca36281c610b72104492d0d81819126f11f1"
+    },
+    {
+      "archivo": "18_foto_oscura.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1047-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Poca luz, dominante cálida y nitidez baja.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 64903,
+      "sha256": "16c08e2de8d3309541e1fd962c626be4e10a66cc1dbe8476455419888b3bbf10"
+    },
+    {
+      "archivo": "19_doblez_central.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1050-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Doblez central, curvatura y sombras.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 95593,
+      "sha256": "048045ee6247664373788085c332ffa40e81d672314f7a000dfad900ea7fa493"
+    },
+    {
+      "archivo": "20_muy_poca_luz.jpg",
+      "origen": {
+        "archivo_zip": "https://expressexpense.com/large-receipt-image-dataset-SRD.zip",
+        "miembro": "1058-receipt.jpg"
+      },
+      "pagina_fuente": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "licencia_declarada": "MIT, según la página de ExpressExpense",
+      "observaciones": "Foto oscura y oblicua con fondo visible.",
+      "idioma": "Inglés predominante",
+      "dimensiones_px": [
+        750,
+        1000
+      ],
+      "bytes": 88968,
+      "sha256": "b83fd5df95bd60d833504a31fa4edaac8b3de9fd359e380afe2f820ce657b58f"
+    },
+    {
+      "archivo": "21_peru_plaza_vea_recortada.jpg",
+      "origen": {
+        "imagen": "https://pbs.twimg.com/media/B9BpCJSIAAIxERA.jpg"
+      },
+      "pagina_fuente": "https://x.com/Jhonattan_c_b/status/563065496988581891",
+      "licencia_declarada": "Sin licencia abierta indicada",
+      "observaciones": "Foto con sombra y pliegue. El documento está recortado por abajo: no contiene la boleta completa. Caso útil para comprobar detección de imagen incompleta.",
+      "idioma": "Español",
+      "dimensiones_px": [
+        768,
+        1024
+      ],
+      "bytes": 78936,
+      "sha256": "473e67a85fe114c90b61791639860cce03e1b68a4336e45d0f2f888aad2a8b1b"
+    },
+    {
+      "archivo": "22_espana_mercadona_ticket_largo.jpg",
+      "origen": {
+        "imagen": "https://cdn2.ondavasca.com/gjk1yn9wgaacnqo.jpg"
+      },
+      "pagina_fuente": "https://www.ondavasca.com/los-precios-de-un-supermercado-en-un-ticket-de-2004-revolucionan-las-redes-sociales/",
+      "licencia_declarada": "Sin licencia abierta indicada",
+      "observaciones": "Foto de ticket largo, con anotación manuscrita y texto superpuesto de la publicación original.",
+      "idioma": "Español",
+      "dimensiones_px": [
+        1290,
+        2252
+      ],
+      "bytes": 353354,
+      "sha256": "08290f3e45afa9e092a0519641d5944fb423cccbc3b33d00dec753d78b16d59f"
+    }
+  ]
+}

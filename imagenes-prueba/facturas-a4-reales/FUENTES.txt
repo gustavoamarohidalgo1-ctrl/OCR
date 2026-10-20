@@ -1,0 +1,124 @@
+FACTURAS REALES EN HOJA A4/CARTA (ESPAÑOL)
+
+13 facturas reales descargadas el 19 de octubre de 2026: 6 de México, 4 de Colombia, 2 de Chile y 1 de España.
+12 son PDF (con capa de texto, usada como referencia exacta en referencias/) y 1 es una imagen escaneada.
+Las 12 primeras las publican entidades públicas por transparencia: NO tienen licencia abierta. Úsalas solo para pruebas internas; no las redistribuyas ni las subas a repositorios públicos.
+La 13 tiene licencia CC BY-SA 4.0 (Wikimedia Commons, autor Diego Piñeiro).
+Las imágenes y PDF no se suben a git (regla de .gitignore de imagenes-prueba); este archivo y catalogo.json sí.
+
+Documentos/01_mx_ciatej_hoteles_romano_2025.pdf
+Fuente: https://www.ciatej.mx/comprobantes/2025/4toTri2025/viaticos/250547/ae841ff0-4bbf-49b5-925d-a988ab85bb75.pdf
+Publica: CIATEJ (Jalisco, México)
+Licencia o base: Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: CFDI de hospedaje de Hoteles Romano a CIATEJ (2025). PDF digital de 2 páginas; tabla con clave, descripción, unidad, cantidad, precio unitario e importe; ISH, IVA 16 % y total.
+Datos personales: Emisor y receptor son empresas o entidades públicas.
+Páginas: 2 · 16.971 bytes
+SHA256: f53437dcd58c9c1a9f4577c1e42252745465db5f691f3745367dc54377d463ec
+
+Documentos/02_mx_ciatej_hotel_montenegro_2023.pdf
+Fuente: https://www.ciatej.mx/comprobantes/2023/4toTri2023/viaticos/230807/85A7A470-DC5D-4019-BBE8-7C3443F88695.pdf
+Publica: CIATEJ (Jalisco, México)
+Licencia o base: Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: CFDI de Hotel Montenegro (Guadalajara) a CIATEJ (2023), PDF digital tamaño carta.
+Datos personales: Emisor y receptor son empresas o entidades públicas.
+Páginas: 1 · 33.518 bytes
+SHA256: d93c92ea708eba2a099d3f0058281f4a7801a245eb10ffa0e22378aab88aad19
+
+Documentos/03_mx_ciatej_aeropuerto_gdl_2019.pdf
+Fuente: https://www.ciatej.mx/comprobantes/2019/3erTri2019/190866/33A3B612-689C-4971-87EB-2003C955081C.pdf
+Publica: CIATEJ (Jalisco, México)
+Licencia o base: Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: CFDI de Aeropuerto de Guadalajara a CIATEJ (2019, estacionamiento), PDF digital.
+Datos personales: Emisor y receptor son empresas o entidades públicas.
+Páginas: 1 · 187.852 bytes
+SHA256: 3edb82316458160842d0420e3c26746b0d87e38f6ddb640d6af2680af0867830
+
+Documentos/04_mx_ciatej_cfdi_d3253_2019.pdf
+Fuente: https://www.ciatej.mx/comprobantes/2019/4toTri2019/191171/BF4FC347-F75C-4ABC-A098-9D3ABBE0C781_Redacted.pdf
+Publica: CIATEJ (Jalisco, México)
+Licencia o base: Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: CFDI de restaurante a CIATEJ (2019), versión pública con datos tachados; varios conceptos con impuestos por línea.
+Datos personales: El emisor es una persona física con actividad empresarial; su RFC y otros datos aparecen tachados.
+Páginas: 2 · 1.950.052 bytes
+SHA256: bedec7383dbfb0ab0d64b26611d7634b4d09bf309fbfbc443345bf9d68ecc191
+
+Documentos/05_mx_fiscalia_ags_parrilleros_2016.pdf
+Fuente: https://www.fiscalia-aguascalientes.gob.mx/docs/info-transparencia/Fraccion-IX/A/VIAT074-2016%20PUBLICO.pdf
+Publica: Fiscalía General del Estado de Aguascalientes
+Licencia o base: Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: Expediente de viáticos de 9 páginas, versión pública; la primera es un CFDI de Parrilleros del Norte (La Provoleta) escaneado con sello y firma.
+Datos personales: Emisor empresa y receptor entidad pública; otras páginas del expediente pueden incluir datos de servidores públicos.
+Páginas: 9 · 3.202.819 bytes
+SHA256: f42670e7196f0739ee2085be4dd48c97184a0f8d0a178f2a327ceb928e737444
+
+Documentos/06_mx_tepjf_excelsior_2016.pdf
+Fuente: https://www.te.gob.mx/repositorio/A70F23-B/FACTURAS%202016/245.pdf
+Publica: Tribunal Electoral del Poder Judicial de la Federación
+Licencia o base: Publicado por una entidad pública mexicana en su portal de transparencia (comprobantes de viáticos o gastos). Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: CFDI de Periódico Excélsior al TEPJF (2016, publicidad), escaneado en gris.
+Datos personales: Emisor y receptor son empresas o entidades públicas.
+Páginas: 1 · 477.638 bytes
+SHA256: 8dc52e4c49d6e448bcae9579b1ebc9fe1ddc0298cbe804a2a1902f91e52dcf6e
+
+Documentos/07_co_cce_factura_6939_2023.pdf
+Fuente: https://operaciones.colombiacompra.gov.co/sites/cce_public/files/documentos_adicionales_oc/factura_6939_enero_2023.pdf
+Publica: Colombia Compra Eficiente (documentos de órdenes de compra)
+Licencia o base: Publicado por Colombia Compra Eficiente (entidad pública) como documento adicional de una orden de compra. Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: Factura electrónica de venta de ASEAR S.A. E.S.P. a la DIAN (2023), PDF digital A4 con IVA 19 %.
+Datos personales: Emisor empresa, receptor entidad pública.
+Páginas: 1 · 54.467 bytes
+SHA256: a8077dd0c4c464901324f61767220d17dd4989827980d022e810989e76c16dc6
+
+Documentos/08_co_cce_factura_asea6932_2023.pdf
+Fuente: https://operaciones.colombiacompra.gov.co/sites/cce_public/files/documentos_adicionales_oc/factura_asea6932.pdf
+Publica: Colombia Compra Eficiente (documentos de órdenes de compra)
+Licencia o base: Publicado por Colombia Compra Eficiente. Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: Factura electrónica de venta de ASEAR a la DIAN (2023), PDF digital A4.
+Datos personales: Emisor empresa, receptor entidad pública.
+Páginas: 1 · 50.001 bytes
+SHA256: 3aa704010eccf850c6326838a08fbe79f04c2d041bac9b484b2801c8e1301a32
+
+Documentos/09_co_cce_factura_7472_2023.pdf
+Fuente: https://operaciones.colombiacompra.gov.co/sites/cce_public/files/documentos_adicionales_oc/2023-04-factura_7472.pdf
+Publica: Colombia Compra Eficiente (documentos de órdenes de compra)
+Licencia o base: Publicado por Colombia Compra Eficiente. Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: Factura electrónica de venta de ASEAR a la DIAN (abril 2023), PDF digital A4.
+Datos personales: Emisor empresa, receptor entidad pública.
+Páginas: 1 · 49.695 bytes
+SHA256: 3fba641ac2078da4c405e0cff8eb1f3e89e20185a14f64d1b160b603cf8b79bc
+
+Documentos/10_co_cce_factura_mayo_2022.pdf
+Fuente: https://operaciones.colombiacompra.gov.co/sites/cce_public/files/documentos_adicionales_oc/factura_mayo_2022_0.pdf
+Publica: Colombia Compra Eficiente (documentos de órdenes de compra)
+Licencia o base: Publicado por Colombia Compra Eficiente. Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: Factura electrónica de venta de ASEAR a la DIAN (mayo 2022), PDF digital A4 con 5 conceptos.
+Datos personales: Emisor empresa, receptor entidad pública.
+Páginas: 1 · 50.826 bytes
+SHA256: 7b78ab686923adac3de91421acadc0f7c2b0efd48f8a0e005144bc572c8cb04a
+
+Documentos/11_cl_sii_factura_grpc_06-25_2019.pdf
+Fuente: https://www.sii.cl/transparencia/2019/grpc_06-25.pdf
+Publica: Servicio de Impuestos Internos de Chile (transparencia)
+Licencia o base: Publicado por el SII de Chile en su sección de transparencia. Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: Factura electrónica Nº25 de un servicio de banquetería al SII (2019), con IVA 19 %.
+Datos personales: El emisor es una persona natural con giro comercial (nombre y RUT visibles); receptor entidad pública.
+Páginas: 1 · 74.845 bytes
+SHA256: b3c798d078245304a4bd7081f79d9d33e407a6a76e0f9163834f5ba50b2a69b1
+
+Documentos/12_cl_sii_factura_grpc_02-17797_2019.pdf
+Fuente: https://www.sii.cl/transparencia/2019/grpc_02-17797.pdf
+Publica: Servicio de Impuestos Internos de Chile (transparencia)
+Licencia o base: Publicado por el SII de Chile en su sección de transparencia. Sin licencia abierta: uso interno para pruebas, sin redistribuir.
+Descripción: Factura electrónica Nº17797 de Comercializadora y Distribuidora Vivanco S.A. al SII (2019), con IVA 19 %.
+Datos personales: Emisor empresa, receptor entidad pública.
+Páginas: 1 · 74.074 bytes
+SHA256: 684a2e04d08936339ef59176ee39c19722c6f2af987df38ef7bb55ff31ae1e1a
+
+Documentos/13_es_factura_ibanox.jpg
+Fuente: https://upload.wikimedia.org/wikipedia/commons/c/c4/Factura_Ibanox.jpg
+Publica: Wikimedia Commons (autor: Diego Piñeiro)
+Licencia o base: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/): citar autor, fuente y licencia al reutilizar. Página: https://commons.wikimedia.org/wiki/File:Factura_Ibanox.jpg
+Descripción: Factura de Inoxidables Baralla (Ibanox, Lugo), formulario impreso rellenado a mano; escaneo de 1687×2337 px.
+Datos personales: La emisora es una persona física (autónoma) con nombre y DNI impresos en el membrete; el cliente es una sociedad.
+Páginas: 1 · 1.102.157 bytes
+SHA256: 9c515b619c0a8f3430b99b52d06463eb07f7608de491fe054d7c23ea427b2a6b

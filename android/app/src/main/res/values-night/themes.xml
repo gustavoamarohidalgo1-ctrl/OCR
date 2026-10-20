@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark platform base for the dark palette; the app styles are shared in values/styles.xml. -->
+    <style name="PlatformTheme" parent="android:style/Theme.Material.NoActionBar" />
+    <style name="PlatformDialogTheme" parent="android:style/Theme.Material.Dialog.Alert" />
+</resources>

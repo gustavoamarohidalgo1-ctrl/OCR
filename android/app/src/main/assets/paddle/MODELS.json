@@ -1,0 +1,64 @@
+{
+  "model": "latin_PP-OCRv5_mobile_rec",
+  "repository": "https://huggingface.co/PaddlePaddle/latin_PP-OCRv5_mobile_rec_onnx",
+  "revision": "89d3a50e2c27e2e7cceeab0e944c25c807d5db4f",
+  "license": "Apache-2.0",
+  "runtime": "com.microsoft.onnxruntime:onnxruntime-android:1.20.0",
+  "alphabet_size_with_space": 837,
+  "dictionary_derivation": "JSON array of PostProcess.character_dict in inference.yml, in original order, followed by one space as in PaddleOCR CTCDecoder. No user-photo text or substitutions.",
+  "preprocessing": "BGR default; fixed height48, widthceil(48*w/h) capped3200, bilinear uint8 resize, float/127.5-1, NCHW. CTC blank0, collapse consecutive classes before removing blanks.",
+  "files": [
+    {
+      "file": "inference.onnx",
+      "bytes": 8042023,
+      "sha256": "7888113072263cb471b93f66dd5e2ad70548dc526fa1ace760d0d973dd121498",
+      "url": "https://huggingface.co/PaddlePaddle/latin_PP-OCRv5_mobile_rec_onnx/resolve/89d3a50e2c27e2e7cceeab0e944c25c807d5db4f/inference.onnx"
+    },
+    {
+      "file": "inference.yml",
+      "bytes": 6817,
+      "sha256": "0bbe984570f597af3638e50bdf2e8276f3ab26a61966096538b3b0d1849f5c84",
+      "url": "https://huggingface.co/PaddlePaddle/latin_PP-OCRv5_mobile_rec_onnx/resolve/89d3a50e2c27e2e7cceeab0e944c25c807d5db4f/inference.yml"
+    },
+    {
+      "file": "characters.json",
+      "bytes": 4296,
+      "sha256": "c0c61a12c423fd5874bb6acaf8323c75a93de83d4541ae7f7e70554d572d3048"
+    },
+    {
+      "file": "LICENSE",
+      "bytes": 11376,
+      "sha256": "3840c5c0c61c294264d2dd77b8777be6ddd90121ef4e0e64abcd22edea581d6e"
+    }
+  ],
+  "runtime_artifact": {
+    "url": "https://repo.maven.apache.org/maven2/com/microsoft/onnxruntime/onnxruntime-android/1.20.0/onnxruntime-android-1.20.0.aar",
+    "sha256": "07a8f71ef890afed8c6087a56220e6d558a492804276ee2dd7cb7f6262242027",
+    "declared_min_sdk": 21,
+    "selection_reason": "Pinned official release compatible with application minSdk23. The 1.21.1 AAR declares minSdk24. Both provide native RunOptions.setTerminate."
+  },
+  "onnx_ir_version": 3,
+  "onnx_opset": 7,
+  "detection": {
+    "model": "PP-OCRv5_mobile_det",
+    "repository": "https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_det_onnx",
+    "revision": "e6f4fa85f00e168c862bc462aebca69eef9b3d3d",
+    "license": "Apache-2.0",
+    "asset": "detection.onnx",
+    "sha256": "a431985659dc921974177a95adcfbb90fd9e51989a5e04d70d0b75f597b6e61d",
+    "bytes": 4826518,
+    "preprocessing": "Official model YAML: BGR; resize_long960,ceil128; /255 then mean[.485,.456,.406],std[.229,.224,.225]; NCHW",
+    "postprocessing": "DB binary threshold0.3,quad score0.6,unclip1.5; retain every accepted detection within bounded whole-page budget."
+  },
+  "detection_v6_small": {
+    "model": "PP-OCRv6_small_det",
+    "repository": "https://huggingface.co/PaddlePaddle/PP-OCRv6_small_det_onnx",
+    "revision": "28fe5895c24fd108c19eb3e8479f4ab385fbfc62",
+    "license": "Apache-2.0",
+    "asset": "detection-v6-small.onnx",
+    "sha256": "d73e0058b7a8086bbd57f3d10b8bcd4ff95363f67e06e2762b5e814fe9c9410e",
+    "bytes": 9880512,
+    "preprocessing": "Official default: BGR; minside736,maxside4000,round32; /255 then mean[.485,.456,.406],std[.229,.224,.225]; NCHW",
+    "postprocessing": "DB threshold0.2,quad score0.45,unclip1.4; 3000 contours; bounded full-page input, no truncation."
+  }
+}

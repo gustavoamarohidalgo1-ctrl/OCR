@@ -1,0 +1,69 @@
+FOTOS DE FACTURAS EN FORMATO HOJA / TIPO A4
+
+7 fotografías originales publicadas en internet: 5 en español y 2 en inglés.
+Fotos/: 3 documentos con encabezado, conceptos y total visibles; algunos márgenes están cortados.
+Recortadas/: 4 fotografías con partes importantes fuera del encuadre, una de ellas manuscrita.
+La apariencia es de documentos en hoja; no se han verificado sus medidas físicas exactas.
+Se conservaron los archivos descargados sin añadir desenfoque, sombras ni ruido.
+Los ocultamientos de datos ya están presentes en las imágenes originales.
+Vista_previa.jpg es un índice de miniaturas; para OCR usa los archivos individuales.
+Las imágenes recortadas no contienen toda la información del documento.
+Esta descarga no certifica la precisión de la transcripción de la app.
+
+FUENTES Y OBSERVACIONES
+
+Fotos/01_atrio_hoja_doblada.jpg
+Fuente: https://www.ojoalplato.com/restaurante-atrio-caceres/
+Imagen: https://ojoalplato-static.s3.amazonaws.com/media/gallery/atrio/factura-1024x768.jpg
+Atribución: Paco Palanca / Ojo al plato
+Foto de hoja amplia con doblez horizontal, sombra, baja resolución y anotaciones a mano. Encabezado, conceptos e importe total visibles.
+Sin licencia abierta indicada en la fuente consultada.
+SHA256: ed079c31497582fdc2ef288ebbb6bbd03f7c4dd340963b85679f208c6b4818ab
+
+Fotos/02_bosch_taller_perspectiva.webp
+Fuente: https://www.stoneacre.co.uk/used-cars/audi/a1/s-line/1-4-tfsi-s-line-sportback-s-tronic-euro-5-s-s-5dr-s22rpw
+Imagen: https://assets.stoneacre.co.uk/stock/9694173/conversions/image_20-2000.webp
+Atribución: Stoneacre; documento de North Jesmond Garage Ltd.
+Foto de factura en hoja grande, con grapas, dobleces, sombras y perspectiva. Encabezado, tabla y total visibles; parte del texto de los márgenes y pie queda cortada. Datos del cliente ocultos por la publicación original.
+Sin licencia abierta indicada en la fuente consultada.
+SHA256: 16d32ae54f6ec77576ee3451b71ac6d2ea80a1c9a4d23fab1587bf95a7a6eb7c
+
+Fotos/03_sc_autos_hoja_arrugada.jpg
+Fuente: https://collectingcars.com/for-sale/2004-dwr-cobra
+Imagen: https://images.collectingcars.com/081691/WhatsApp-Image-2025-10-17-at-12-23-38-10-.jpeg
+Atribución: Collecting Cars; documento de S & C Autos Ltd.
+Foto de hoja con arrugas, dobleces, sombras y ligera perspectiva. Tablas e importe total visibles; extremo superior del logotipo cortado. Bloque de datos oculto por la publicación original.
+Sin licencia abierta indicada en la fuente consultada.
+SHA256: 923e0249702fbab3c6d8b88b64b56be8fb3d8fe6795c28acd2d15a3646508169
+
+Recortadas/04_factura_manuscrita_inclinada.jpg
+Fuente: https://www.pymesyautonomos.com/vocacion-de-empresa/puedo-facturar-sin-ser-autonomo
+Imagen: https://i.blogs.es/d81b24/650_1000_factura/650_1200.jpg
+Atribución: Pymes y Autónomos
+Formulario de factura en hoja fotografiado sobre una mesa, relleno a mano, con fuerte inclinación y baja resolución. El borde inferior y parte del importe final quedan cortados. El tamaño físico no se puede verificar.
+Sin licencia abierta indicada en la fuente consultada.
+SHA256: 49e5fcff2b6ea7433d641ca2f5cacdd338e0835b085206c6f344a6610989db36
+
+Recortadas/05_seat_ibiza_sin_encabezado.jpg
+Fuente: https://forocoches.com/foro/showthread.php?t=5098955
+Imagen: https://img.imgur.com/nr75M8v.jpg
+Atribución: Publicación en ForoCoches; imagen alojada en Imgur
+Foto de una factura de taller en hoja amplia, con doblez y tablas de piezas y mano de obra. El encabezado no aparece en la fotografía publicada.
+Sin licencia abierta indicada en la fuente consultada.
+SHA256: 795e42324d75bfce48578e79d8ee333920bcd1bff048c6fd12576bdca1940f88
+
+Recortadas/06_citroen_pagina_parcial.jpg
+Fuente: https://www.citroenforos.com/d/12067418-rotura-correa-de-distribucion-y-bomba-de-agua
+Imagen: https://cdn.citroenforos.com/files/3058193C8B3A577F673833577F6731.jpg
+Atribución: Publicación en Citroën Foros
+Foto de hoja de taller sobre una superficie, con perspectiva, sombras y datos tapados en la fuente. Es la página 1 de 2 y su parte inferior está cortada; no contiene la factura completa.
+Sin licencia abierta indicada en la fuente consultada.
+SHA256: 6981e4d86d0a0c0b6c55e69c6231a9b6979d52bdff3340e17d9232377cbc742a
+
+Recortadas/07_taller_hoja_sostenida.jpg
+Fuente: https://forocoches.com/foro/showthread.php?t=9679332
+Imagen: https://i.imgur.com/2CJLLFf.jpg
+Atribución: Publicación en ForoCoches; imagen alojada en Imgur
+Foto de factura en hoja con cuadrícula, sostenida con la mano, doblez horizontal y otro papel superpuesto. Parte superior recortada; tabla e importe total visibles. Se incluye solamente esta versión del documento.
+Sin licencia abierta indicada en la fuente consultada.
+SHA256: 85970fa8ce4a3a4e67b0588f04a1198540f5a90dd732e1412f5e1a6d5375f511

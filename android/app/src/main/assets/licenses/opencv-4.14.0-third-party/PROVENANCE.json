@@ -1,0 +1,172 @@
+{
+  "source": "https://github.com/opencv/opencv/releases/download/4.14.0/opencv-4.14.0-android-sdk.zip",
+  "source_sha256": "e8cfaf2e51f2e2127a6ede91718d1ef7587f8b6e62db922816e7c33a1f1116a7",
+  "description": "Verbatim complete sdk/etc/licenses distribution from official Android SDK release. Some licenses cover optional ABI-specific components. No text removed or edited.",
+  "files": [
+    {
+      "file": "ittnotify-GPL-2.0-only.txt",
+      "bytes": 17599,
+      "sha256": "cbe0f9505c5ca02ee34bfca453df31a98e31e6d56afcdf8ab0f87f4c94f1181b"
+    },
+    {
+      "file": "libopenjp2-README.md",
+      "bytes": 5402,
+      "sha256": "cc0090eb6abfbea7d44351851d04bcfcfeb9181eac9fcb8b2d108091b5eefc24"
+    },
+    {
+      "file": "ippiw-EULA.txt",
+      "bytes": 4190,
+      "sha256": "c1bf7165226036081d5cbe4baca565eb5e817fe56b9cf1ac7247688feb32b3e4"
+    },
+    {
+      "file": "openexr-AUTHORS.ilmbase",
+      "bytes": 336,
+      "sha256": "3d01213ed07453794228b95e41fd5897bad65e1342ebfdefbe52311d6e1adcb4"
+    },
+    {
+      "file": "ippicv-readme.htm",
+      "bytes": 6506,
+      "sha256": "60872339f83f97b5d102f68b43df8fa968e8b618a3ef69a0e6307d1e755251c1"
+    },
+    {
+      "file": "tbb-README.md",
+      "bytes": 4828,
+      "sha256": "9504c62f0e01a7ea5d15f7fcf2d52ec24acef60078ad10f0c55d63d68218fbe2"
+    },
+    {
+      "file": "protobuf-LICENSE",
+      "bytes": 1732,
+      "sha256": "6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d"
+    },
+    {
+      "file": "ippicv-EULA.txt",
+      "bytes": 4190,
+      "sha256": "c1bf7165226036081d5cbe4baca565eb5e817fe56b9cf1ac7247688feb32b3e4"
+    },
+    {
+      "file": "libjpeg-turbo-README.md",
+      "bytes": 17784,
+      "sha256": "c553459fc4ea1f69526f0edf0c8ff6c4002fda5b76094abefabdc3de1ee62c10"
+    },
+    {
+      "file": "ippiw-support.txt",
+      "bytes": 326,
+      "sha256": "ae29fd797424fcd465b3b8f09fc30b5145c512b3763f6172edf71780203c6912"
+    },
+    {
+      "file": "dlpack-LICENSE",
+      "bytes": 11345,
+      "sha256": "3e8f6bc39276a586d60c8c5aaece2ff989262181cf2b3d2a128db58f97a9300c"
+    },
+    {
+      "file": "SoftFloat-COPYING.txt",
+      "bytes": 1732,
+      "sha256": "0c5b08365136da52639d777f1ebfc03988b0169d80655c90c59f1b3fa3e526a2"
+    },
+    {
+      "file": "features2d-LICENSE.AKAZE",
+      "bytes": 1551,
+      "sha256": "c5c1534691f93489d9dc545f490480d24c447114b66d737c8ae63765222f3d26"
+    },
+    {
+      "file": "openexr-LICENSE",
+      "bytes": 1697,
+      "sha256": "14eba5f05238f57c77e94f0ebd29a0b3736ba0456ff990cda16e21b6903ac453"
+    },
+    {
+      "file": "ippicv-third-party-programs.txt",
+      "bytes": 260,
+      "sha256": "152d84b967b38395b7b1d52fd515a397f6cab429832001b210812a9c5c8ea2c5"
+    },
+    {
+      "file": "ade-LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "cpufeatures-LICENSE",
+      "bytes": 577,
+      "sha256": "c870d52f42a8f93023b99a85fe68d02637d6b04e5f35bbcd7f98759adb4e4d49"
+    },
+    {
+      "file": "libjpeg-turbo-README.ijg",
+      "bytes": 12799,
+      "sha256": "75815e3bf6484201a3c3d17a1bbf10f2e8e3237f84df10a2357ea896db2a81d6"
+    },
+    {
+      "file": "mscr-chi_table_LICENSE.txt",
+      "bytes": 1559,
+      "sha256": "676858659f4115246b41f2f44dcfbf17db52c6b1755f1102b78a87062dff0c07"
+    },
+    {
+      "file": "vasot-LICENSE.txt",
+      "bytes": 1083,
+      "sha256": "a9c8a68807d39b6810d593008f02e7835a8f8280781e5ce9b544a7fb973bb79e"
+    },
+    {
+      "file": "cpufeatures-README.md",
+      "bytes": 304,
+      "sha256": "66da62d48c88cdb5f124626bb9be1598203a7ecdfe2c4a306a94d1f962b39fc5"
+    },
+    {
+      "file": "libopenjp2-LICENSE",
+      "bytes": 2112,
+      "sha256": "a6af136f3e15038a666b61f376612a07d9a4e48cb7c01adbf3e33b3f14ab49b6"
+    },
+    {
+      "file": "openexr-AUTHORS.openexr",
+      "bytes": 1253,
+      "sha256": "35560b29d013ceea33c66e8a0dfa4fc41768302e441c49bf98a3cffffbc17bde"
+    },
+    {
+      "file": "libtiff-LICENSE.md",
+      "bytes": 2416,
+      "sha256": "0e27c2382d7b8147972bbb746e04059a1152c8d0fda9d03ef1399d1a433c4ade"
+    },
+    {
+      "file": "ippiw-third-party-programs.txt",
+      "bytes": 260,
+      "sha256": "152d84b967b38395b7b1d52fd515a397f6cab429832001b210812a9c5c8ea2c5"
+    },
+    {
+      "file": "features2d-LICENSE.KAZE",
+      "bytes": 1539,
+      "sha256": "7dc579b21290a73fa2da09517a866f0b97cd31f87b174ab7c3984ae63bf1ea84"
+    },
+    {
+      "file": "libpng-LICENSE",
+      "bytes": 5345,
+      "sha256": "bdb0a645ea18c60507d0368379b1ac5474b92255fcc2d115e07486a7672ba526"
+    },
+    {
+      "file": "libjpeg-turbo-LICENSE.md",
+      "bytes": 5620,
+      "sha256": "96f5b328adbb78eeaaec6980d73fd558cb1e4d62560ed615646bc3cf5e532430"
+    },
+    {
+      "file": "flatbuffers-LICENSE.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "protobuf-README.md",
+      "bytes": 134,
+      "sha256": "aa924b1ceb243a25b4ff4a0360dc124a58d22633e9f6de02167d162b86968324"
+    },
+    {
+      "file": "ittnotify-BSD-3-Clause.txt",
+      "bytes": 1485,
+      "sha256": "cf48cdd9ed87c2031b68fb1b9f4cfb55d00dcf815b21a30bf8304aa1e5e6f76a"
+    },
+    {
+      "file": "libpng-README",
+      "bytes": 9485,
+      "sha256": "513658508b1c663bd2cfa814d4de84f0ef6d1bf7d7ff5e84c5f58fb3d3215774"
+    },
+    {
+      "file": "tbb-LICENSE.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    }
+  ]
+}

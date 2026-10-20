@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light platform base for the light palette; values-night swaps in the dark one. -->
+    <style name="PlatformTheme" parent="android:style/Theme.Material.Light.NoActionBar" />
+    <style name="PlatformDialogTheme" parent="android:style/Theme.Material.Light.Dialog.Alert" />
+</resources>

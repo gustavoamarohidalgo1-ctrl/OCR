@@ -1,0 +1,79 @@
+FACTURAS Y RECIBOS EN HOJA CON LICENCIA ABIERTA
+
+7 documentos reales descargados de Wikimedia Commons el 18 de octubre de 2026, con su licencia verificada mediante la API oficial de Commons.
+Solo 2 son comprobantes modernos impresos (01 y 03). Los otros 5 son documentos históricos con partes escritas a mano: sirven como casos difíciles, no como boletas actuales.
+No se encontraron boletas ni facturas peruanas reales en formato A4 con licencia abierta (repositorios universitarios con imágenes de baja resolución; SUNAT no publica ejemplos escaneados).
+Los archivos se conservan sin modificar; solo se renombraron. Las imágenes no se suben a git por la regla de .gitignore de imagenes-prueba; este archivo y catalogo.json sí.
+Vista_previa.jpg es un índice de miniaturas; para OCR usa los archivos de Fotos/.
+
+ATRIBUCIÓN Y LICENCIAS (obligatoria en CC BY y CC BY-SA: cita autor, título, fuente y licencia al reutilizar)
+
+Fotos/01_invoice1633_factura_comercial.jpg
+Título: Factura comercial / orden de compra (Annie International – Qingdao Jinzepeng)
+Fuente: https://commons.wikimedia.org/wiki/File:Invoice1633.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/4/49/Invoice1633.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Autor: Kxtar
+Licencia: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+Resolución: 2550 x 3501 px · 837.309 bytes
+Observaciones: Documento moderno impreso (2019) en hoja tamaño carta: encabezado, tabla de artículos con cantidades, precios y totales. Texto nítido. Aparecen nombres de empleados de las empresas; no hay datos de personas naturales como clientes.
+SHA256: 7e396a26db747841e50eae2db593c7234025fbda185f15635afc20ccbabd574a
+
+Fotos/02_recibo_hidroelectrica_valencia_1962.jpg
+Título: Recibo de Hidroeléctrica Española S.A., Valencia, 4 jun 1962
+Fuente: https://commons.wikimedia.org/wiki/File:Rebut_Hidroel%C3%A9ctrica_VLC_1962.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/3/32/Rebut_Hidroel%C3%A9ctrica_VLC_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Autor: B25es
+Licencia: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+Resolución: 2477 x 1648 px · 1.799.517 bytes
+Observaciones: Recibo apaisado de 1962 (no es A4 vertical): plantilla impresa con conceptos e importes, y nombre, dirección y cantidad en letra escritos a mano. Incluye nombre y dirección de una persona natural (abonado de 1962); no redistribuir fuera del proyecto sin revisarlo.
+SHA256: 49015483692dacceafe62a66303124a644e6d3e515f458bb2ada5500da6c1cbc
+
+Fotos/03_recibo_salosino_natal_brasil.jpg
+Título: Recibo de consumo (NFC-e) de Salosino Comercial, Natal, Brasil, 2019
+Fuente: https://commons.wikimedia.org/wiki/File:BRA_%E2%80%94_Rio_Grande_do_Norte_%E2%80%94_Natal_(recibo_Salosino).jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/6/68/BRA_%E2%80%94_Rio_Grande_do_Norte_%E2%80%94_Natal_%28recibo_Salosino%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Autor: see image
+Licencia: Public domain
+Resolución: 1839 x 2926 px · 2.230.489 bytes
+Observaciones: Comprobante moderno impreso y escaneado (2019): artículos, cantidades, precios, total, pago y código QR. Formato alargado, no A4. Indica «consumidor não identificado»: sin datos del cliente; contiene el CNPJ de la empresa.
+SHA256: c369e99bc568d53684e0d18d241d9f6775e835548e08e1e32485ce318802fb3a
+
+Fotos/04_factura_de_hengst_lede_1908.jpg
+Título: Factura de la cervecería De Hengst, Lede (Bélgica), 1908
+Fuente: https://commons.wikimedia.org/wiki/File:Factuur_van_De_Hengst_AAIGEM-030.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/0/09/Factuur_van_De_Hengst_AAIGEM-030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Autor: Erfgoedcel Denderland
+Licencia: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+Resolución: 3554 x 5520 px · 8.489.866 bytes
+Observaciones: Membrete impreso de 1908; conceptos, importes y firma escritos a mano. Útil como caso difícil de manuscrito, no como boleta moderna.
+SHA256: 75258459b76f1ea3ed381491324307288f90a50227767440f80cf91297017dda
+
+Fotos/05_factura_cesar_de_corte_lede_1912.jpg
+Título: Factura de la cervecería Cesar De Corte, Lede (Bélgica), 1912
+Fuente: https://commons.wikimedia.org/wiki/File:Factuur_van_Cesar_De_Corte_AAIGEM-025.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/b/b7/Factuur_van_Cesar_De_Corte_AAIGEM-025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Autor: Erfgoedcel Denderland
+Licencia: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+Resolución: 3895 x 4716 px · 7.364.700 bytes
+Observaciones: Encabezado y tabla impresos (1912); fechas, entregas e importes escritos a mano.
+SHA256: 48262a8dde59bb5bb524293b7567baa9895e9a7f461fae04a51709d37746002f
+
+Fotos/06_factura_callebaut_freres_lede.jpg
+Título: Factura de Callebaut Frères, Alost (Bélgica), finales del siglo XIX
+Fuente: https://commons.wikimedia.org/wiki/File:Factuur_Callebaut_Fr%C3%A8res_AAIGEM-053.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/3/30/Factuur_Callebaut_Fr%C3%A8res_AAIGEM-053.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Autor: Erfgoedcel Denderland
+Licencia: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+Resolución: 3788 x 4818 px · 8.072.233 bytes
+Observaciones: Membrete ilustrado y tabla impresa; líneas de mercancías e importes escritos a mano. Texto impreso pequeño en los márgenes.
+SHA256: 5e102d5cc9beac6494832d84eb33524c2ad14ca01ad619eda92b2c3f59b0dfda
+
+Fotos/07_recibo_abbott_holder_1969.jpg
+Título: Recibo de la galería Abbott and Holder, Londres, 21 ago 1969
+Fuente: https://commons.wikimedia.org/wiki/File:Abbott_and_Holder_receipt_-_21_August_1969.jpg
+Imagen: https://upload.wikimedia.org/wikipedia/commons/6/60/Abbott_and_Holder_receipt_-_21_August_1969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+Autor: Eric Holder
+Licencia: Public domain
+Resolución: 2448 x 3264 px · 833.804 bytes
+Observaciones: Membrete impreso; el cuerpo del recibo (pagador, importe y concepto) está escrito a mano y firmado.
+SHA256: dbdaf6032da9b3975d90c6be98dbd007896e67bfbd0e39000a722771bdbc6861

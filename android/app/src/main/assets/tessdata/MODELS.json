@@ -1,0 +1,18 @@
+[
+  {
+    "repo": "tessdata_best",
+    "commit": "e12c65a915945e4c28e237a9b52bc4a8f39a0cec",
+    "language": "eng",
+    "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_best/e12c65a915945e4c28e237a9b52bc4a8f39a0cec/eng.traineddata",
+    "size_bytes": 15400601,
+    "sha256": "8280aed0782fe27257a68ea10fe7ef324ca0f8d85bd2fd145d1c2b560bcb66ba"
+  },
+  {
+    "repo": "tessdata_best",
+    "commit": "e12c65a915945e4c28e237a9b52bc4a8f39a0cec",
+    "language": "spa",
+    "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_best/e12c65a915945e4c28e237a9b52bc4a8f39a0cec/spa.traineddata",
+    "size_bytes": 13570187,
+    "sha256": "e2c1ffdad8b30f26c45d4017a9183d3a7f9aa69e59918be4f88b126fac99ab2c"
+  }
+]

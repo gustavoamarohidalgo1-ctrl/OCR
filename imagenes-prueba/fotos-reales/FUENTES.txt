@@ -1,0 +1,28 @@
+FOTOS REALES DE BOLETAS Y RECIBOS PARA PRUEBAS OCR
+
+22 imágenes seleccionadas después de inspección visual.
+Carpeta Fotos: archivos originales publicados en internet, conservados sin transformaciones.
+La mayoría está en inglés; las imágenes 21 y 22 están en español.
+
+01 a 20: selección del conjunto ExpressExpense SRD (200 imágenes).
+Atribución: ExpressExpense.com. Licencia MIT según su página de publicación.
+Fuente: https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/
+Descarga: https://expressexpense.com/large-receipt-image-dataset-SRD.zip
+MD5 comprobado del ZIP: c8eb0f2d286da5ab742e7a5b59f15147
+
+21: Plaza Vea, Perú. Publicación de Jhonattan en X.
+Fuente: https://x.com/Jhonattan_c_b/status/563065496988581891
+Imagen: https://pbs.twimg.com/media/B9BpCJSIAAIxERA.jpg
+La parte inferior no aparece en la foto; no representa una boleta completa.
+Sin licencia abierta indicada por la fuente.
+
+22: Mercadona, España. Foto publicada en Onda Vasca.
+Fuente: https://www.ondavasca.com/los-precios-de-un-supermercado-en-un-ticket-de-2004-revolucionan-las-redes-sociales/
+Imagen: https://cdn2.ondavasca.com/gjk1yn9wgaacnqo.jpg
+Contiene texto superpuesto de la publicación original.
+Sin licencia abierta indicada por la fuente.
+
+catalogo.json relaciona cada archivo con su fuente, dificultades visibles, dimensiones y SHA256.
+Vista_previa.jpg es solo un índice de miniaturas; para probar OCR usa las imágenes de Fotos.
+Se conservan las imperfecciones de las imágenes publicadas. No se han añadido desenfoque, sombras ni ruido.
+No se ha certificado la exactitud de la transcripción de estas imágenes con la app.

@@ -1,0 +1,57 @@
+{
+  "dispositivo": "emulator-5554",
+  "avd": "Pixel_Tablet",
+  "carpeta": "/sdcard/Download/Facturas_A4",
+  "cantidad": 7,
+  "archivos": [
+    {
+      "archivo": "Fotos/01_atrio_hoja_doblada.jpg",
+      "destino": "/sdcard/Download/Facturas_A4/Fotos/01_atrio_hoja_doblada.jpg",
+      "sha256": "ed079c31497582fdc2ef288ebbb6bbd03f7c4dd340963b85679f208c6b4818ab",
+      "verificado": true,
+      "escaneo": "Broadcasting: Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///... flg=0x400000 }\nBroadcast completed: result=0"
+    },
+    {
+      "archivo": "Fotos/02_bosch_taller_perspectiva.webp",
+      "destino": "/sdcard/Download/Facturas_A4/Fotos/02_bosch_taller_perspectiva.webp",
+      "sha256": "16d32ae54f6ec77576ee3451b71ac6d2ea80a1c9a4d23fab1587bf95a7a6eb7c",
+      "verificado": true,
+      "escaneo": "Broadcasting: Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///... flg=0x400000 }\nBroadcast completed: result=0"
+    },
+    {
+      "archivo": "Fotos/03_sc_autos_hoja_arrugada.jpg",
+      "destino": "/sdcard/Download/Facturas_A4/Fotos/03_sc_autos_hoja_arrugada.jpg",
+      "sha256": "923e0249702fbab3c6d8b88b64b56be8fb3d8fe6795c28acd2d15a3646508169",
+      "verificado": true,
+      "escaneo": "Broadcasting: Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///... flg=0x400000 }\nBroadcast completed: result=0"
+    },
+    {
+      "archivo": "Recortadas/04_factura_manuscrita_inclinada.jpg",
+      "destino": "/sdcard/Download/Facturas_A4/Recortadas/04_factura_manuscrita_inclinada.jpg",
+      "sha256": "49e5fcff2b6ea7433d641ca2f5cacdd338e0835b085206c6f344a6610989db36",
+      "verificado": true,
+      "escaneo": "Broadcasting: Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///... flg=0x400000 }\nBroadcast completed: result=0"
+    },
+    {
+      "archivo": "Recortadas/05_seat_ibiza_sin_encabezado.jpg",
+      "destino": "/sdcard/Download/Facturas_A4/Recortadas/05_seat_ibiza_sin_encabezado.jpg",
+      "sha256": "795e42324d75bfce48578e79d8ee333920bcd1bff048c6fd12576bdca1940f88",
+      "verificado": true,
+      "escaneo": "Broadcasting: Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///... flg=0x400000 }\nBroadcast completed: result=0"
+    },
+    {
+      "archivo": "Recortadas/06_citroen_pagina_parcial.jpg",
+      "destino": "/sdcard/Download/Facturas_A4/Recortadas/06_citroen_pagina_parcial.jpg",
+      "sha256": "6981e4d86d0a0c0b6c55e69c6231a9b6979d52bdff3340e17d9232377cbc742a",
+      "verificado": true,
+      "escaneo": "Broadcasting: Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///... flg=0x400000 }\nBroadcast completed: result=0"
+    },
+    {
+      "archivo": "Recortadas/07_taller_hoja_sostenida.jpg",
+      "destino": "/sdcard/Download/Facturas_A4/Recortadas/07_taller_hoja_sostenida.jpg",
+      "sha256": "85970fa8ce4a3a4e67b0588f04a1198540f5a90dd732e1412f5e1a6d5375f511",
+      "verificado": true,
+      "escaneo": "Broadcasting: Intent { act=android.intent.action.MEDIA_SCANNER_SCAN_FILE dat=file:///... flg=0x400000 }\nBroadcast completed: result=0"
+    }
+  ]
+}

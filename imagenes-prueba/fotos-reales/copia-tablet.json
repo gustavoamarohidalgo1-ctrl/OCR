@@ -1,0 +1,28 @@
+{
+  "tablet": "Pixel_Tablet",
+  "carpeta": "/sdcard/Download/Boletas_reales",
+  "archivos_verificados_sha256": [
+    "01_sombras_y_fondo.jpg",
+    "02_desenfoque_suave.jpg",
+    "03_papel_doblado.jpg",
+    "04_poca_luz.jpg",
+    "05_sombra_en_mesa.jpg",
+    "06_luz_desigual.jpg",
+    "07_luz_azulada.jpg",
+    "08_pliegues_y_contraste.jpg",
+    "09_impresion_tenue.jpg",
+    "10_anotacion_a_mano.jpg",
+    "11_papel_curvado.jpg",
+    "12_papel_arrugado.jpg",
+    "13_texto_desvanecido.jpg",
+    "14_franjas_de_papel.jpg",
+    "15_sombra_del_telefono.jpg",
+    "16_sombra_y_pliegue.jpg",
+    "17_foto_girada.jpg",
+    "18_foto_oscura.jpg",
+    "19_doblez_central.jpg",
+    "20_muy_poca_luz.jpg",
+    "21_peru_plaza_vea_recortada.jpg",
+    "22_espana_mercadona_ticket_largo.jpg"
+  ]
+}

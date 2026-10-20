@@ -1,0 +1,31 @@
+.venv/
+.local/
+data/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+output/
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+prototypes/macos/
+keystore.properties
+.kotlin/
+
+# Boletas y facturas reales de terceros sin licencia abierta verificada (ANALISIS-PROYECTO.md, F13).
+# Siguen en disco para las pruebas, pero no se versionan. Sus fichas de origen (.txt, .json) sí.
+imagenes-prueba/**
+!imagenes-prueba/**/
+!imagenes-prueba/**/*.txt
+!imagenes-prueba/**/*.json
+# Texto completo de las facturas reales sin licencia abierta (incluye nombres e identificadores fiscales).
+imagenes-prueba/facturas-a4-reales/referencias/
+android/app/src/androidTest/assets/real-receipt-photos/**
+!android/app/src/androidTest/assets/real-receipt-photos/sources.json
+android/app/src/androidTest/assets/real-document-probes/**
+!android/app/src/androidTest/assets/real-document-probes/README.txt
+# Recorte y transcripción de la boleta UNAJ p106.
+android/app/src/androidTest/assets/accuracy-probes/

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Light palette. The dark palette lives in values-night and follows the system setting. -->
+<resources>
+    <color name="background">#F3F6F7</color>
+    <color name="panel">#FFFFFF</color>
+    <color name="text_primary">#14242B</color>
+    <color name="text_secondary">#56676F</color>
+    <color name="accent">#0A7A70</color>
+    <color name="on_accent">#FFFFFF</color>
+    <color name="outline">#D3DDE1</color>
+    <color name="positive_surface">#E2F3F0</color>
+    <color name="selected_outline">#5BAFA4</color>
+    <color name="caution_text">#7A4A00</color>
+    <color name="caution_surface">#FFF2D4</color>
+    <color name="error_text">#9E2A2B</color>
+    <color name="error_surface">#FCE6E4</color>
+    <!-- Android 6-7 cannot draw dark navigation icons, so the light palette keeps a dark bar there (values-v26 lightens it). -->
+    <color name="navigation_bar">#14242B</color>
+</resources>
